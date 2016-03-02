@@ -1,0 +1,20 @@
+#wrapper{background-color:cornflowerblue;
+width:80%;
+height:80%;
+margin:0 auto;
+border:5px solid black;}
+
+h1{text-align:center;
+font-size:300%;
+font-family:sans-serif;}
+
+h2{text-align:center;
+  font-size:200%;}
+
+  #convince{font-size:180%;
+    text-align:center;}
+
+
+    #info{text-align:center;
+      font-size:150%;
+      color:crimson;}
